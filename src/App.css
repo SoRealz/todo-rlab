@@ -1,0 +1,33 @@
+/* App.css */
+
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .todo-list-container {
+    width: 1000px; /* Adjust width as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
