@@ -18,16 +18,3 @@
     margin-left: 5px;
   }
 
-  .center-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  
-  .todo-list-container {
-    width: 1000px; /* Adjust width as needed */
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
